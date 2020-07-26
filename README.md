@@ -4,5 +4,5 @@
 
 
 ### TODO
-- [ ] 重新学习js,将知识点为[文档](https://lxhyl.cn)
+- [ ] 重新学习js,将知识点总结为[文档](https://lxhyl.cn)
 - [ ] 看完张鑫旭的《css世界》
