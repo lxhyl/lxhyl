@@ -4,6 +4,6 @@
 
 
 ### TODO
-- [ ] 重新深度学习js,将知识点总结为[文档](https://lxhyl.cn)
+- [ ] 重新深度学习js,将知识点总结为[文档](https://lxhyl.cn)  
       - [x] Array
 - [ ] 看完张鑫旭的《css世界》
