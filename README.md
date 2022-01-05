@@ -1,7 +1,6 @@
 ### I'm Lxhyl 👋
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lxhyl&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lxhyl&theme=radical&count_private=true&layout=compact)
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lxhyl)
 
 
