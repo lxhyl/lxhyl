@@ -10,6 +10,6 @@
 
 ### I'm Lxhyl 👋
 
-[universe](https://www.youtube.com/watch?v=dQw4w9WgXcQ){:target="_blank"}
+<a src="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="blank">universe</a>
 · 
 [42](https://www.bilibili.com/video/BV1va411w7aM)
