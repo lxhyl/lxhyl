@@ -9,3 +9,5 @@
 </a>
 
 ### I'm Lxhyl 👋
+
+<img alt="GitHub Commit Activity (Year)" src="https://img.shields.io/github/commit-activity/y/lxhyl/lxhyl.github.io" />
