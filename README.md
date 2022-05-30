@@ -10,4 +10,4 @@
 
 ### I'm Lxhyl 👋
 
-stay curious.keep learning.Then f**k the world
+*stay curious.keep learning.Then f**k the world*
