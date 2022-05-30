@@ -10,4 +10,4 @@
 
 ### I'm Lxhyl 👋
 
-*stay curious.keep learning.Then f**k the world*
+[42](https://www.bilibili.com/video/BV1va411w7aM)
