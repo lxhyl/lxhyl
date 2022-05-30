@@ -10,4 +10,4 @@
 
 ### I'm Lxhyl 👋
 
-<img alt="GitHub Commit Activity (Year)" src="https://img.shields.io/github/commit-activity/y/lxhyl/lxhyl.github.io" />
+stay curious.keep learning.Then f**k the world
