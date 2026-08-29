@@ -1,3 +1,3 @@
 * Smart Contract Auditor
 
-* Building iOS App [Smashphone](smashphone.app)
+* Building iOS App [Smashphone](https://smashphone.app)
